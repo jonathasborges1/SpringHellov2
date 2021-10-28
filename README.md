@@ -41,6 +41,4 @@
 ## Executando 
 
 [![Em execução](https://cdn.discordapp.com/attachments/903344027364118528/903352579768061962/run_2.gif)](https://youtu.be/hv6zJMSlhkY)
-
-![teste](https://cdn.discordapp.com/attachments/903344027364118528/903345358606843915/run-short.mov)
-
+Cliclando no gif, você será redirecinado para o video no youtube
