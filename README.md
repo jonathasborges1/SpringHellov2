@@ -35,7 +35,6 @@
 	
 	}
 ```
-
 ## Executando 
 
 [![Em execução](https://cdn.discordapp.com/attachments/903344027364118528/903352579768061962/run_2.gif)](https://youtu.be/hv6zJMSlhkY)
