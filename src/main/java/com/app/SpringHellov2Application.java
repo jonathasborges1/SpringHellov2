@@ -1,13 +1,12 @@
 package com.app;
+/*
+
+Referencia: https://spring.io/guides/gs/spring-boot/
+
+*/
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-/*
-
- Referencia: https://spring.io/guides/gs/spring-boot/
- 
-*/
 
 @SpringBootApplication
 public class SpringHellov2Application {
