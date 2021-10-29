@@ -1,12 +1,11 @@
 ## Hello World com Spring Boot usando Eclipse IDE
-> Setup Inicial em - https://spring.io/guides/gs/spring-boot/
+Setup Inicial em - https://spring.io/guides/gs/spring-boot/
 
-# EndPoint 1
+## EndPoint 1
 
 ##### Criar a classe principal, assim:
 
-<blockquote>
-	
+```java
 	import org.springframework.boot.SpringApplication;
 	import org.springframework.boot.autoconfigure.SpringBootApplication;
 	
@@ -16,10 +15,9 @@
 			SpringApplication.run(SpringHellov2Application.class, args);
 		}
 	}
-	
-</blockquote>
+```
 
-# EndPoint 2
+## EndPoint 2
 
 ##### Criar a classe controller, assim:
 ```java
