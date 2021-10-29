@@ -16,6 +16,7 @@
 			SpringApplication.run(SpringHellov2Application.class, args);
 		}
 	}
+	
 </blockquote>
 
 # EndPoint 2
@@ -40,4 +41,7 @@
 [![Em execução](https://cdn.discordapp.com/attachments/903344027364118528/903352579768061962/run_2.gif)](https://youtu.be/hv6zJMSlhkY)
 Clicando no gif, você será redirecinado para o video no youtube
 
+<<<<<<< HEAD
 🥳
+=======
+
